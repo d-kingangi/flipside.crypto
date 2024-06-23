@@ -1,3 +1,9 @@
+-- columns 
+
+-- DAILY_ADDRESSES
+-- DAILY_NEW_ADDRESSES
+-- DAILY_TRANSACTIONS
+
 WITH first_seen_day AS (
   SELECT
     TX_FROM,
